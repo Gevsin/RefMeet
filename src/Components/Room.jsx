@@ -16,7 +16,7 @@ const Room = () => {
             container: element,
             sharedLinks: [{
                 name: "Copy Link",
-                url: `http://localhost:3000/room/${roomID}`
+                url: `https://zegocloudone.netlify.app/room/${roomID}`
             }],
             scenario: {
                 mode: ZegoUIKitPrebuilt.OneONoneCall,
