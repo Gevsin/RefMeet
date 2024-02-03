@@ -16,7 +16,7 @@ const Room = () => {
             container: element,
             sharedLinks: [{
                 name: "Copy Link",
-                url: `https://ReFMeMeet.vercel.app//room/${roomID}`
+                url: `https://refmemeet.vercel.app//room/${roomID}`
             }],
             scenario: {
                 mode: ZegoUIKitPrebuilt.OneONoneCall,
