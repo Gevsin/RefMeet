@@ -31,6 +31,9 @@
 ## Key Features :
 
 # One to One Video Calls : 
+- Seamless Video and Audio streaming for PeertoPeer Communication
+
+# Screen Sharing : 
 - 
 
 
