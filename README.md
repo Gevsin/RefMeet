@@ -46,8 +46,8 @@
  - [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) ReactJs
  - [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev) NodeJs
  - [![My Skills](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) ExpressJs
- - [![My Skills](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev) Solidity
-- Alongside thses I have used openzepplin , hardhat , uiver.io and NodeJs childprocesses and EthereJS for Implementation . 
+ - [![My Skills](https://skillicons.dev/icons?i=&perline=3)](https://skillicons.dev) Solidity
+
 
 # Prerequisites : 
 
