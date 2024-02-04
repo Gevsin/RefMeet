@@ -82,7 +82,9 @@ npm run start
 - Deployed Site : https://refmemeet.vercel.app/
 - Associated Project : https://devfolio.co/projects/referhub-46fa
 
-# Screenshots : 
+# Screenshots :
+<img width="960" alt="Screenshot 2024-02-05 002407" src="https://github.com/Adidem23/RefMeet/assets/124609794/da15341e-32a0-43e6-9df8-b90f8d82baad">
+
 
 # Frontend :
 
