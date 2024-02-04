@@ -62,9 +62,10 @@
   ```
 
 # Installation : 
+
 Follow The Installation manual and install dependencies 
 
-1. Clone Project 
+1. Run Command 
  ```sh
    npm install --force
  ```
