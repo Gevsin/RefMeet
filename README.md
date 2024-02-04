@@ -55,7 +55,6 @@
   ```sh
   npm install npm@latest -g
   ```
-* You Require Metamask Wallet and Some polygon Mumbai matic Tokens
   
 * NodeJs
   ```sh
