@@ -122,6 +122,13 @@ npm run start
 <br />
 <br />
 
+# Another Person Joined :
+
+<br />
+<img width="960"  src="https://github.com/Adidem23/RefMeet/assets/124609794/51752583-20a3-4caa-bd54-b62761e8e614" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
 
 
 # Contributions : 
