@@ -25,7 +25,7 @@
 ## About The Project : 
 
 ## Refmeet : Seamless Meets, Endless Possibilities
-
+- This is PeertoPeer real time meet platform just like Googlemeet . 
 
 
 ## Token Introduction :
