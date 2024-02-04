@@ -34,11 +34,11 @@
 - Seamless Video and Audio streaming for PeertoPeer Communication
 
 # Screen Sharing : 
-- 
+- Seamless Screen Sharing from Peer to Peer
 
 
 # Video :
-- Youtube : https://youtu.be/XBKHXwTq0j4?si=YyOH8JLrXnFS6AMZ
+- Youtube : 
 
 
 # Built With : 
