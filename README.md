@@ -30,12 +30,8 @@
 
 ## Key Features :
 
-## Minting Your Own ERC20 On Polygon-Mumbai : 
-- The Main Feature of the Token is to make ERC20 token on users demand it asks for only name of token and it unit and we are good to go
-
-
-## Mintng Avalon Tokens : 
-- It provides faucet for minting Avalon tokens 
+# One to One Video Calls : 
+- 
 
 
 # Video :
