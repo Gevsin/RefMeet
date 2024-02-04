@@ -117,7 +117,7 @@ npm run start
 # Join Room : 
 
 <br />
-<img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
+<img width="960"  src="https://github.com/Adidem23/RefMeet/assets/124609794/2b9f880a-fad5-45c4-b595-606af016677a" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
 <br />
