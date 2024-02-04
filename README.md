@@ -83,13 +83,11 @@ npm run start
 - Associated Project : https://devfolio.co/projects/referhub-46fa
 
 # Screenshots :
-<img width="960" alt="Screenshot 2024-02-05 002407" src="https://github.com/Adidem23/RefMeet/assets/124609794/da15341e-32a0-43e6-9df8-b90f8d82baad">
-
 
 # Frontend :
 
 <br />
-<img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
+<img width="960"  src="https://github.com/Adidem23/RefMeet/assets/124609794/da15341e-32a0-43e6-9df8-b90f8d82baad" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
 <br />
