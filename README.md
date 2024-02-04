@@ -74,22 +74,7 @@ Follow The Installation manual and install dependencies
 npm run start
 ```
 
-3. App is Running on localhost:5173 😎
-
-4. Go in Backend Folder and run following Command
-```sh
-   npm install --force
- ```
-5. Go in Scripts folder in Backend
-
-6. Run Following Command
- ```sh
-   node Server.js 
- ```
-7. Backend Server is started on localhost:6189
-
-## Note : Do not Kill Both Terminals in VSCode Both Frontend and Backend
-
+3. App is Running on localhost:3000 😎
 
 # Deployments :
 - Spline3D Avalon Token Link : https://app.spline.design/file/3faa78b9-40f3-420d-a2a6-7051243dc33f
