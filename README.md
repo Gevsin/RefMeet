@@ -1,5 +1,7 @@
 <div align="center">
- <img src="https://github.com/Adidem23/TokenForge/assets/124609794/a4204fe8-7827-4881-aa43-4408dc706740" height="150px" width="150px" />
+ ![mo](https://github.com/Adidem23/RefMeet/assets/124609794/2b1756ed-de36-4cc1-a261-dee60dfb970a)
+
+ <img src="" height="150px" width="150px" />
   <h3 align="center"> RefMeet : The PeerToPeer Meeting Platform</h3>
 </div>
 <details>
