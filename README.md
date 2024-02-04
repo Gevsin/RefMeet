@@ -64,14 +64,14 @@
 # Installation : 
 Follow The Installation manual and install dependencies 
 
-1. Clone Project and go inside Frontend
+1. Clone Project 
  ```sh
    npm install --force
  ```
 
 2. Run Following Command in terminal
 ```sh
-npm run dev
+npm run start
 ```
 
 3. App is Running on localhost:5173 😎
