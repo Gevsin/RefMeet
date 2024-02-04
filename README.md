@@ -106,34 +106,4 @@ npm run start
 <br />
 <br />
 
-# Join Meet : 
-
-<br />
-<img width="960"  src="https://github.com/Adidem23/RefMeet/assets/124609794/4086d808-df00-4f0a-8a2c-d679e8f56a85" alt="Screenshot 2024-01-02 222928" >
-<br />
-<br />
-<br />
-
-# Join Room : 
-
-<br />
-<img width="960"  src="https://github.com/Adidem23/RefMeet/assets/124609794/2b9f880a-fad5-45c4-b595-606af016677a" alt="Screenshot 2024-01-02 222928" >
-<br />
-<br />
-<br />
-
-# Another Person Joined :
-
-<br />
-<img width="960"  src="https://github.com/Adidem23/RefMeet/assets/124609794/51752583-20a3-4caa-bd54-b62761e8e614" alt="Screenshot 2024-01-02 222928" >
-<br />
-<br />
-<br />
-
-# Leave Room :
-
-<br />
-<img width="960"  src="https://github.com/Adidem23/RefMeet/assets/124609794/40b00a24-a040-4acf-bf4f-d7ac16a69df2" alt="Screenshot 2024-01-02 222928" >
-<br />
-<br />
-<br />
+--- 
